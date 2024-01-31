@@ -52,10 +52,7 @@ For any questions or feedback, reach out to us at [email@example.com](mailto:ema
 
 Happy travels with Wayfinder.AI! 🌟
 
-<img width="960" alt="Screenshot 2024-02-01 022054" src="https://github.com/iknowaditya/wayfinder.ai/assets/97401096/9e1b70d7-f637-4bcf-af37-7802e8327c38">
-<img width="960" alt="Screenshot 2024-02-01 022650" src="https://github.com/iknowaditya/wayfinder.ai/assets/97401096/4b584266-1ae9-4cd4-86e0-bd638196f3fd">
-<img width="960" alt="Screenshot 2024-02-01 030209" src="https://github.com/iknowaditya/wayfinder.ai/assets/97401096/a510e244-b0cc-407b-9dde-85d1247c5a58">
-<img width="960" alt="Screenshot 2024-02-01 030739" src="https://github.com/iknowaditya/wayfinder.ai/assets/97401096/5f04c579-32b8-4352-aaa3-9e780b610161">
+
 
 
 
