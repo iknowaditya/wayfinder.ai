@@ -36,8 +36,6 @@ To get started with Wayfinder.AI, follow these steps:
 
 Contributions are welcome! Please follow our [contribution guidelines](CONTRIBUTING.md).
 
-<img width="960" alt="Screenshot 2024-02-01 022054" src="https://github.com/iknowaditya/wayfinder.ai/assets/97401096/9e1b70d7-f637-4bcf-af37-7802e8327c38">
-
 
 ## License 📄
 
@@ -53,3 +51,6 @@ This project is licensed under the [MIT License](LICENSE).
 For any questions or feedback, reach out to us at [email@example.com](mailto:email@example.com).
 
 Happy travels with Wayfinder.AI! 🌟
+
+<img width="960" alt="Screenshot 2024-02-01 022054" src="https://github.com/iknowaditya/wayfinder.ai/assets/97401096/9e1b70d7-f637-4bcf-af37-7802e8327c38">
+<img width="960" alt="Screenshot 2024-02-01 030739" src="https://github.com/iknowaditya/wayfinder.ai/assets/97401096/ff0d62d3-9ca5-4b8d-8ac9-c7423cd2f66c">
